@@ -3,7 +3,7 @@ export default function HealthStatus (person) {
         return 'healthy';
     }
     
-    if (person.health <=50 && health >=15) {
+    if (person.health <=50 && person.health >=15) {
         return 'wounded';
     } 
        

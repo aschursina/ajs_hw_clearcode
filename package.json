@@ -7,6 +7,10 @@
     "test": "jest --coverage",
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschursina/ajs_hw_clearcode.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {

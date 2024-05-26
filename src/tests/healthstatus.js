@@ -7,6 +7,6 @@ test.each([
 ])('test healthStatus with name %i and health %i',(name, health, expected) => {
     const result = HealthStatus({name, health});
     
-    expected(result).toBe(expected)
+    expected(result).toBe(expected);
 })
 
