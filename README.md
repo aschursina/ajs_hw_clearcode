@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/84bw1iprsqkvdrsi?svg=true)](https://ci.appveyor.com/project/aschursina/ajs-hw-clearcode)
